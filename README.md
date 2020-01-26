@@ -3,9 +3,9 @@
 This API will provide an endpoint that will take an optional JSON with the filters to the desired search of vehicles and return the result also in JSON format:
 
 endpoints:
-<basepath>/seminovos/moto
-<basepath>/seminovos/carro
-<basepath>/seminovos/caminhao
+"<basepath>/seminovos/moto"
+"<basepath>/seminovos/carro"
+"<basepath>/seminovos/caminhao"
  
  JSON example:
  {
